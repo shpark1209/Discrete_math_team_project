@@ -3,13 +3,13 @@ package myPackage;
 public class Test {
 
 	public static void main(String[] args) {
-		// GraphInterpreter Q1 = new ClassName();
-		// GraphInterpreter Q2 = new ClassName();
+		// GraphReader reader1 = new ClassName("1번파일.txt");
+		// GraphReader reader2 = new ClassName("2번파일.txt");
 		
-		// Q1.interpreteGraph();
-		// Q2.interpreteGraph();
+		// GraphInterpreter interpreter1 = new ClassName(reader1);
+		// GraphInterpreter interpreter2 = new ClassName(reader2);
 		
-		// System.out.println(Q1);
-		// System.out.println(Q2);
+		// interpreter1.printResult();
+		// interpreter2.printResult();
 	}
 }
